@@ -5,8 +5,6 @@ form {
     align-items: center;
     border-radius: 10px;
     padding: 30px;
-    background-color: darkgray;
-    box-shadow: 0px 0px 8px 0px #33333347;
   }
   
   input {
